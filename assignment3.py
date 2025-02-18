@@ -20,7 +20,7 @@ def process_log_data(log_data):
     browsers = {
         "Firefox": r'Firefox',
         "Chrome": r'Chrome',
-        "Internet Explorer": r'(MSIE)',
+        "Internet Explorer": r'(Internet Explorer)',
         "Safari": r'Safari'
     }
 
